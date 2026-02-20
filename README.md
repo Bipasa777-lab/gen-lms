@@ -188,7 +188,7 @@ A special thanks to these awesome tools and platforms that helped bring this pro
 
 ---
 
-### 💻 **Built with ❤️ by [Asutosh Sidhya](https://github.com/sidhyaashu)**
+### 💻 **Built with ❤️ by [Bipasa Saha and Team](https://github.com/Bipasa777-lab)**
 
 
 This version should provide a clean and engaging user experience for readers and developers alike!
